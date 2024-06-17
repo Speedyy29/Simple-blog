@@ -1,13 +1,13 @@
-# Simple-blog
- A simple blog app built with Node.js, Express, MongoDB and Mongoose.
-Users can create, edit, delete and view blog posts. Includes title slug generation and custom layouts with EJS templating.
+• Developed a responsive blog website using HTML, CSS, and JavaScript, showcasing proficiency in front-end web development and responsive design principles. Implemented features for user authentication, content management, and seamless browsing experience across various devices.
 
-This project demonstrates a basic fullstack JavaScript web application with:
+• **Stack**: HTML, CSS, JavaScript
 
-CRUD functionality for blog posts
-Database storage using MongoDB and Mongoose
-Server side rendering with EJS layouts and templates
-Routing and controllers to handle requests
-User input validation and sanitization
-Password hashing for security
-The codebase follows the MVC pattern and has comments for learning purposes. This app can be used as a starting point for developing more advanced blogs and content management systems.
+• **Responsibilities**
+   - Utilized Microsoft Visual Studio Code for coding, along with extensions like "Prettier" for code formatting.
+   - Designed and developed the website's structure and layout using HTML5 semantic elements, ensuring proper organization and accessibility.
+   - Implemented responsive design principles using CSS media queries and fluid layouts to ensure optimal viewing experienc
+   - Implemented features for displaying blog posts, categorizing them, and enabling user engagement through comments and social sharing.
+   - Utilized JavaScript for enhancing interactivity, enabling smooth navigation, and handling user interactions.
+   - Ensured cross-browser compatibility and adherence to web standards and best practices.
+   
+   
